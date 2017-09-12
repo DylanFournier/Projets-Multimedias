@@ -1,0 +1,24 @@
+p{
+    font-style:italic;
+    color:rgb(255,0,0);
+}
+h1{
+    font-weight: 900;
+    background-color: blue;
+    text-align: center
+    
+}
+h2{
+    font-weight: bold;
+    text-align: center
+}
+
+li{
+    font-style: italic;
+    font-weight: 600;
+    color:blue
+}
+h3{
+    background-color:red ;
+    text-align: center
+}
